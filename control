@@ -1,0 +1,9 @@
+Package: com.p2kdev.customtransparency
+Name: CustomTransparency
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Reduces the Transparency only on selected elements!
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
